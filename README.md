@@ -24,3 +24,7 @@ This is a simple RESTful web service built with Node.js and MongoDB to manage a 
    ```bash
    npm install
    ```
+2. Server Start
+   ```bash
+   node index.js
+   ```
